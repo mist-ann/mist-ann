@@ -10,9 +10,10 @@ In Python including the use of libraries such as: </br>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-%230C55A5.svg?style=for-the-badge&logoColor=white)
 
-#### Projects I'm proud of:
+#### Repos I'm proud of:
 - [Fake News Simulation](https://github.com/mist-ann/FakeNewsSpread) - multi agent simulation of fake news spread over a social network. Created using Python with mesa, NetworkX, solara and matplotlib.
-- [HAR app](github.com/zuzapawlowska/HAR-app) - mobile app classifying current user activity based on data from accelerometer and gyroscope, app in Kotlin + machine learning models created in and exported from Python
+- [Fun Minis](https://github.com/mist-ann/fun_minis) - Collection of smaller, standalone projects, e.g machine learning projects.
+- [HAR app](github.com/zuzapawlowska/HAR-app) - mobile app classifying current user activity based on data from accelerometer and gyroscope, app in Kotlin + machine learning models created in and exported from Python.
 
 #### Courses:
 - [Data Engineering Essentials](https://www.credly.com/badges/ea4855b3-0243-46a5-a183-6e2605437c73/public_url)
